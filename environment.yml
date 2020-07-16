@@ -1,1 +1,6 @@
-"tweepy"
+name: null
+channels:
+ - conda-forge
+ - defaults
+dependencies:
+ - tweepy
